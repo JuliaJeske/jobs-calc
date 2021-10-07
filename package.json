@@ -15,5 +15,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.13"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliaJeske/jobs-calc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JuliaJeske/jobs-calc/issues"
+  },
+  "homepage": "https://github.com/JuliaJeske/jobs-calc#readme"
 }
